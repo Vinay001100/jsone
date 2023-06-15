@@ -5,6 +5,8 @@ function convertToInteger(str) {
 convertToInteger("56");
 
 /*
+Use the parseInt Function
+
 
 The parseInt() function parses a string and returns an integer. Here's an example:
 
